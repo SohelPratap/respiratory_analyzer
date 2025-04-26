@@ -16,3 +16,12 @@ subprojects {
 tasks.register("clean", Delete) {
     delete rootProject.buildDir
 }
+
+// Fix for plugins that require namespace (like contacts or Firebase)
+allprojects {
+    plugins.withId("com.android.library") {
+        android {
+            namespace = "com.example.respiratory_analyzer" // <- match your project
+        }
+    }
+}
