@@ -101,10 +101,12 @@ respiratory_analyzer/
 3. Model predicts respiratory condition
 4. App displays prediction with confidence
 
-## 📱 Screenshots (optional)
-![image](https://github.com/user-attachments/assets/c9391010-c360-4692-a1e6-4e8eab70dfd0)
-![image](https://github.com/user-attachments/assets/e5ce8199-83e8-45b1-ba52-e2bb425abf2e)
+## 📱 Screenshots
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/c9391010-c360-4692-a1e6-4e8eab70dfd0" width="30%" alt="Recording Screen"/>
+  <img src="https://github.com/user-attachments/assets/e5ce8199-83e8-45b1-ba52-e2bb425abf2e" width="30%" alt="Results Screen"/>
+</div>
 
 
 ## 🔮 Future Scope
