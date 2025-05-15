@@ -102,7 +102,10 @@ respiratory_analyzer/
 4. App displays prediction with confidence
 
 ## 📱 Screenshots (optional)
-[Add screenshots of the recording screen, file picker, and result display here]
+![image](https://github.com/user-attachments/assets/c9391010-c360-4692-a1e6-4e8eab70dfd0)
+![image](https://github.com/user-attachments/assets/e5ce8199-83e8-45b1-ba52-e2bb425abf2e)
+
+
 
 ## 🔮 Future Scope
 - Add TensorFlow Lite support for offline prediction
