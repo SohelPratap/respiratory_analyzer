@@ -118,6 +118,17 @@ respiratory_analyzer/
 ## 🧑‍💻 Contributing
 PRs are welcome! If you want to improve frontend UI or extend model support, feel free to fork and contribute.
 
+## 👨‍💻 Team Members
+
+Meet the developers behind this project:
+
+| Member            | GitHub Profile |
+|-------------------|----------------|
+| Parv Patidar      | [@Parv03-glitch](https://github.com/Parv03-glitch) |
+| Sohel Pratap Singh| [@SohelPratap](https://github.com/SohelPratap) |
+| Shrawan Kumar Bhagat | [@ShrawanBhagat04](https://github.com/ShrawanBhagat04) |
+
+
 ## 📜 License
 MIT License
 ```
