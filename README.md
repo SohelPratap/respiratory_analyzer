@@ -1,6 +1,6 @@
 
 
-```markdown
+
 # 🫁 Respiratory Analyzer
 
 A cross-platform mobile app built using Flutter + Python Flask that detects respiratory diseases by analyzing breathing sounds using Digital Signal Processing (DSP) and Machine Learning.
